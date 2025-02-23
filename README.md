@@ -20,11 +20,16 @@ The current case of study can be executed through the script Run_models_2.py
 
 Current case of study is given by the following network 
 
-- Scheme of the modelled network:  
-  ```md
-![Scheme](Data/IEEE37_2.png)
+- Scheme of the modelled network:
+<img src="Data/IEEE37_2.png" alt="Project Screenshot" width="500">
 
-Figures can be created from Tariff_comparison.py. However current results are hardcoded.
+The outputs are written in the folder Output, where some typicall CSV files are attached. In the same line, some typical results are the distribution of the total costs and the distribution network costs as the pictures show
+- Total cost distribution
+<img src="Output/TotalCosts.png" alt="Project Screenshot" width="500">
+- Total network cost distribution
+<img src="Output/NetworkCosts.png" alt="Project Screenshot" width="500">
 
+
+Figures can be created from Tariff_comparison.py. However, current results are hardcoded.
 ## Contact
 For doubts and suggestion, please, contact miguel.sanchezlopez@eng.ox.ac.uk
